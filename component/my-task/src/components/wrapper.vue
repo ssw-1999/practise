@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>水母话题管理页</h1>
+    <h1>话题管理页</h1>
     <myform></myform>
     <mylist></mylist>
   </div>
