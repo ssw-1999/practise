@@ -1,6 +1,6 @@
 <template>
   <div>
-      <label>话题名称</label>
+      <label>我的话题名称</label>
       <select name="match-types">
           <option value="accurate-match">精确匹配</option>
           <option value="blurry-match">模糊匹配</option>

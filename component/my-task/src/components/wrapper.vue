@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>我的话题管理页</h1>
-    <div>kkkkkkk</div>
+    <div>我的修改</div>
     <div>hahaha</div>
     <myform></myform>
     <mylist></mylist>
