@@ -3,7 +3,6 @@
     <h1>我的话题管理页</h1>
     <div>hahaha</div>
     <div>我的修改1</div>
-    <div>我的修改2</div>
     <myform></myform>
     <mylist></mylist>
   </div>
