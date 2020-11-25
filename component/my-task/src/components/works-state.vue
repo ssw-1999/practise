@@ -1,6 +1,6 @@
 <template>
   <div>
-      <label>作品状态</label>
+      <label>我的作品状态</label>
       <div>
           <label>
               
