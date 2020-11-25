@@ -8,7 +8,6 @@
     <div>change3</div>
     <div>hahaha</div>
     <div>kkkkkk</div>
-    <div>hahahahhhhh</div>
     <myform></myform>
     <mylist></mylist>
   </div>
